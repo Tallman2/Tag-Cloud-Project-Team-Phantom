@@ -1,0 +1,25 @@
+Tag Cloud Links:
+
+Loads of code on how to develop a Tag Cloud in C# plus source code requires account to access:
+http://www.codeproject.com/Articles/224231/Word-Cloud-Tag-Cloud-Generator-Control-for-NET-Win
+
+Tag Cloud Algorithm hints and tips:
+http://stackoverflow.com/questions/342687/algorithm-to-implement-a-word-cloud-like-wordle
+
+Really helpful pdf chapter on how wordle's creator Jonathan Feinberg wrote wordle:
+http://static.mrfeinberg.com/bv_ch03.pdf
+
+Github Repo for wordle, alas no source code just language implementations:
+https://github.com/jdf/cue.language
+
+Word cloud implementation for silverlight:
+http://whydoidoit.com/wordcloud-for-silverlight/
+
+Tag Cloud in C# implementation:
+http://stackoverflow.com/questions/354738/tag-cloud-in-c-sharp
+
+Geekzilla Tag Cloud in C# info:
+http://www.geekzilla.co.uk/View960C74AE-D01B-428E-BCF3-E57B85D5A308.htm
+
+More info on Tag Clouds:
+http://mathematica.stackexchange.com/questions/2334/how-to-create-word-clouds/2360#2360
