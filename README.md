@@ -1,2 +1,2 @@
-# Tag-Cloud-Project-Team-Phantom
-DIT Computing/Computer Science Team Project Year 3
+# Tag-Cloud-Generator
+Tag Cloud Generator for Group Project

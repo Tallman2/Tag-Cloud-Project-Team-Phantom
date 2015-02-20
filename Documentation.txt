@@ -1,0 +1,50 @@
+Sopwith/Physics/Tanks/Scrabble
+
+Hotel/NCT/DVD/Surgery/Library/Autoshop/Taxi/Calendar
+
+E voting
+
+Tag Cloud
+
+Week 1
+Team Name - Team 
+
+1 - Tag Cloud
+2 - Library/DVD
+3 - E Voting
+
+STRONG leadership
+The team has STRONG aesthetic design sensibilities & background(s) in graphic design
+have tag-cloud of presentation - demonstrate how useful tag clouds are for analysis
+heuristic plagarism checking
+web based - dynamic
+explore 3d clouds
+Word Doc / pdfs? / html / code
+different languages
+social media support blogger/twitter/facebook
+shaped clouds / configuration (shaped like a christmas tree etc.)
+dynamic zoom
+hyperlinks
+
+27/01/15
+Fisrt Team meeting
+putting together the pitch/presentation
+Decided on Google app engine as the platform
+Defined our design approach
+Upload > Word sort agorith > cloud generation > other features
+Facebook Group Created
+
+Defined our USPs (Unique Selling Points)
+	Custom shaped cloud
+	Dynamic Translation
+	
+30/01/15
+Team meeting
+finishing the presentation & writing up the design doc
+
+06/02/15
+Lab Meeting
+Plan out schedule.
+started 23rd  -  ends april 13th
+Created use case diagram(s)
+
