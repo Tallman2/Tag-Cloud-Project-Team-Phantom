@@ -1,0 +1,16 @@
+version control:
+
+
+What is it? brief definition.
+
+Types of version control?
+local version control
+centralised version control system: CVCS
+distributed version control system: DVCS
+
+History of version control? who uses it why?
+
+Why is it important?
+
+
+
