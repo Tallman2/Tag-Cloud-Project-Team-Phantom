@@ -1,0 +1,10 @@
+What I have written down in my notes:
+
+Week 1: 19th Jan to 23rd Jan -> Project start date
+Week 2: 26th Jan to 30th Jan -> Presentation
+Week 3: 02nd Feb to 06th Feb -> Analysis of Requirements & Planning.
+Week 4: 09th Feb to 13th Feb -> Software Design Document & Presentation
+Week 5: 16th Feb to 20th Feb -> Project Work?
+Week 6: 23rd Feb to 27th Feb -> Project Work?
+Week 7: 02nd Mar to 06th Mar -> Presention on version Control & more work on code 
+week 8: 09th Mar to 13th Mar -> Current Week, do diary 
