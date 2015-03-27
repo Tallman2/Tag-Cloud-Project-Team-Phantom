@@ -1,0 +1,27 @@
+Team Meeting: 24th March 15 4pm.
+
+Full attendance
+
+
+Things to do:
+
+Everything.
+
+Stick with unity.
+
+Adam is working on cloud generation and text input from the console.
+He has a working prototype cloud generator running from the onscreen text input.
+
+Tim is working on the file analyser and reader
+He's still working on it.
+
+
+Tuilla is working on the gui.
+She has a nice GUi set up in Visual Studio which should be importable using windows forms.
+
+
+We'll continue to work like so and the next meeting will be friday.
+
+
+
+
